@@ -1,0 +1,230 @@
+{
+  "main": {
+    "name":"¡Hola, Bienvenido!",
+    "description":"Soy Ingeniero en Computación y Full Stack Web Developer con experiencia realizando proyectos Full Stack desarrollados en el stack PERN. Acá abajo te dejo mis redes de trabajo para que puedas conocerme un poco más",
+    "image":"profilepic.jpg",
+    "bio":"Mi nombre es Jorge Rafael Torres Toro, soy Ingeniero en Computación y Full Stack Web Developer realizando proyectos Full Stack desarrollados en el stack PERN y otras tecnologías del sector. Soy una persona proactiva, organizada y responsable, con buenas relaciones interpersonales.",
+    "bio2": "Me considero una persona responsable, detallista y ordenada. Con ganas de progresar y vivir nuevas experiencias que me ayuden a adquirir nuevas capacidades. Dispuesto a cualquier tipo de desafio y abierto sin prejuicios para con nada ni nadie. En la actualidad formo parte del Bootcamp en Henry donde estoy desarrollando mis aptitudes técnicas para el desarrollo web front y back-end. Asi también, capacidades sociales necesarias para formar parte de proyectos con equipos amplios de trabajo.",
+    "bio3": "De mis experiencias laborales lo que mas rescato es la capacidad generada para adaptarme a diferentes ambientes de trabajo y el poder escuchar y empatizar no solo con mis compañeros, sino tambien con clientes para los cuales estuve prestando diferentes tipos de servicios.",
+    "bio4": "También he estado trabajando con la metodología SCRUM, la cual me ha ayudado a mejorar la eficiencia y eficacia en el desarrollo de proyectos. Al seguir la metodología SCRUM, he aprendido a definir objetivos claros, a planificar las tareas en sprints cortos y manejables, a trabajar en equipo para lograr los objetivos, a mantener una comunicación clara y efectiva con el equipo y los clientes, y a adaptarme rápidamente a los cambios y a las necesidades del proyecto.",
+    "contactmessage":"¿Tienes alguna otra pregunta o consulta? ¡Escribeme y con mucho gusto te responderé!.",
+    "email": "jorgerafaeltorrestoro@gmail.com",
+    "phone": "+58 (424) 456-3270",
+    "github":"https://github.com/jorrgett",
+    "project":"https://www.linkedin.com/in/jorge-torres-42667b257/",
+    "address":{
+      "street":"2ª CL Villa Jardín, San Diego",
+      "city":"Valencia",
+      "state":"Carabobo",
+      "zip": "2006"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1WSB_ldT5iu2JXjjyZv3nZi7_yF937KMB/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills",
+    "education":[
+      {
+        "school":"Henry Bootcamp",
+        "degree":"Full Stack Developer",
+        "graduated":"2022 - Actualidad",
+        "description":"⚙️ Tecnologías aprendidas: HTML, CSS, JavaScript, React, Redux, Node Js, Express, Postgres, Sequelize, etc."
+      },
+      {
+        "school":"Universidad José Antonio Páez",
+        "degree":"Ingeniero de Computación",
+        "graduated":"2018 - 2022",
+        "description":"🎖️ Reconocimiento al mejor trabajo de investigación de ingeniería de computación, 2022."
+      }
+    ],
+    "work":[
+      {
+        "company":"Teaching Assistant",
+        "title":"Henry Bootcamp",
+        "years":" Nov 2022 - Feb 2023",
+        "description1":"✅ Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio.",
+        "description2": "✅ Orientar a los estudiantes en los primeros pasos de la cursada.",
+        "description3": "✅ Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming).",
+        "description4": "✅ Proponer ideas para la mejora de los procesos del Bootcamp."
+      },
+      {
+        "company":"Full Stack Web Developer - Dogs & Countries App",
+        "title":"Henry Bootcamp",
+        "years":"Dic 2022 - Feb 2023",
+        "description1": "✅ Diseñar y desarrollar un E-Commerce que incluye:",
+        "description2": "✅ búsqueda, filtrado, ordenamiento y creación de distintas 'Card Details', a través de una API externa.",
+        "description3": "✅ Tecnologías usadas: HTML, CSS, JavaScript, React, Redux, Node Js, Express, Postgres, Sequelize"
+      },
+      {
+        "company":"Deep Learning - App",
+        "title":"Universidad José Antonio Páez",
+        "years":"Ene 2022 - Oct 2022",
+        "description1": "✅ Desarrollo de un modelo Deep Learning para la automatización de los procesos de detección de tumores cerebrales.",
+        "description2": "✅ Tecnologías usadas: Python, SQL Lite, TensorFlow, Keras, Open CV, HTML, CSS."
+      },
+      {
+        "company":"Full Stack Junior",
+        "title":"Norkservis, C.A.",
+        "years":" Dic 2021 - May 2022",
+        "description1": "✅ Desarrollo de soluciones web en el apartado Front-End y Back-End de los sistemas.",
+        "description2": "✅ Capacidad para leer el código base de los proyectos realizados por otros desarrolladores.",
+        "description3": "✅ Identificar y solventar las fallas o errores en los sistemas.",
+        "description4": "✅ Manejador de versiones con herramientas como Git y GitHub.",
+        "description5": "✅  Participar en las reuniones del equipo proponiendo ideas y soluciones."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"91%"
+      },
+      {
+        "name":"CSS",
+        "level":"91%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"93%"
+      },
+      {
+        "name":"React",
+        "level":"96%"
+      },
+      {
+        "name":"Redux",
+        "level":"95%"
+      },
+      {
+        "name":"Node Js",
+        "level":"94%"
+      },
+      {
+        "name":"Express",
+        "level":"96%"
+      },
+      {
+        "name":"Postgres",
+        "level":"94%"
+      },
+      {
+        "name":"Sequelize",
+        "level":"96%"
+      },
+      {
+        "name":"Pyhton",
+        "level":"90%"
+      },
+      {
+        "name":"Flask",
+        "level":"95%"
+      },
+      {
+        "name":"Tensowflow",
+        "level":"94%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
